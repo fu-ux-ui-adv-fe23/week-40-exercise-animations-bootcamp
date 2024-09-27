@@ -1,4 +1,4 @@
-![screen](poster.png)
+![screen](flipcard.gif)
 
 # CSS Animation Bootcamp
 
